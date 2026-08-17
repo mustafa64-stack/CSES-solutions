@@ -10,13 +10,11 @@ using namespace std;
 int main(){
     long long n;
     cin>>n;
-    vector <int> a(n);
+    long long ac=0,a;
+    long long  sum=n*(n+1)/2;
     for(int i=0;i<n-1;i++){
-        cin>>a[i];
-    }
-    sort(a.begin(),a.end());
-    int flag=0;
-    for(int i=1;i<=n;i++){
-        if(i!=a[i-1]) flag=i;
-    }cout<<flag;
+        cin>>a;
+        ac+=a;
+    }cout<<abs(sum-ac);
+    
 }

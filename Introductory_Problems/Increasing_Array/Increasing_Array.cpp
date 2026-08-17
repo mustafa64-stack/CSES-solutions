@@ -20,6 +20,7 @@ int main(){
         
         if(a[i]<a[i-1]) {
             sum+=abs(a[i]-a[i-1]);
+            a[i]+=abs(a[i]-a[i-1]);
         } 
     }
     cout<<sum;

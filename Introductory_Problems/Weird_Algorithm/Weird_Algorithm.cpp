@@ -8,7 +8,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    int n;
+    long long n;
     cin>>n;
     cout<<n<<" ";
     while(n!=1){

@@ -11,8 +11,8 @@ int main(){
     long long n;
     cin>>n;
     for(int i=1;i<=n;i++){
-        long long put_knight=(i*i*(i*i-1))/2;
-        long long fight=4*(i-1)*(i-2);
-        cout<<put_knight-fight<<"\n";
+        
+        
+        cout<<((i*i*(i*i-1))/2)-(4*(i-1)*(i-2))<<"\n";
     }
 }

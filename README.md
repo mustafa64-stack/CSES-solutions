@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Palindrome Reorder | Introductory Problems | [ C++ ](https://github.com/mustafa64-stack/CSES-solutions/blob/main/Introductory_Problems/Palindrome_Reorder/Palindrome_Reorder.cpp) |
 | Coin Piles | Introductory Problems | [ C++ ](https://github.com/mustafa64-stack/CSES-solutions/blob/main/Introductory_Problems/Coin_Piles/Coin_Piles.cpp) |
 | Trailing Zeros | Introductory Problems | [ C++ ](https://github.com/mustafa64-stack/CSES-solutions/blob/main/Introductory_Problems/Trailing_Zeros/Trailing_Zeros.cpp) |
 | Bit Strings | Introductory Problems | [ C++ ](https://github.com/mustafa64-stack/CSES-solutions/blob/main/Introductory_Problems/Bit_Strings/Bit_Strings.cpp) |

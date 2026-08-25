@@ -15,6 +15,6 @@ int main(){
         cout<<"1 2\n";
     }cout<<"1 3\n";
     for(int i=1;i<=n-1;i++){
-        cout<<"1 2\n";
+        cout<<"2 3\n";
     }
 }

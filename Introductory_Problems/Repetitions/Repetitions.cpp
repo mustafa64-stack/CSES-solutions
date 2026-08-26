@@ -2,7 +2,7 @@
  * Problem Name: Repetitions
  * Language: C++
  * Category: Introductory_Problems
- * Date: 2026-08-17
+ * Date: 2026-08-26
  */
 
 input/code.cpp: In function 'int main()':
